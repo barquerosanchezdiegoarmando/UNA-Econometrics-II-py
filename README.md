@@ -6,6 +6,9 @@
 #### *Profesor Encargado: Alexander Amoretti*
 #### *Desarrollador: Diego Armando Barquero Sánchez*
 ### *Continua en desarrollo*
+### *Estructura Ejemplo 1.0 Regresión Lineal Simple*
+* Regresión Lineal Simple.ipynb = Cuaderno con el código y apuntes relevantes.  
+* datos.xlsx = Datos empleados en el cuaderno, siempre son diferentes sin embargo por practicidad todos los sets se nombraron datos.xlsx
 #### Librerías Empleadas:
 - Numpy : https://numpy.org/doc/stable/
 - Pandas : https://pandas.pydata.org/docs/getting_started/index.html
@@ -13,3 +16,4 @@
 - Matplotlib : https://matplotlib.org/stable/gallery/index.html
 - Seaborn : https://seaborn.pydata.org/
 - Scikit-Learn : https://scikit-learn.org/stable/
+#### Repositorio inspirado en los aportes del profesor Randall Romero al código abierto para ciencias económicas
