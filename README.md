@@ -8,6 +8,7 @@
 ### *Continua en desarrollo*
 ### *Estructura Ejemplo 1.0 Regresión Lineal Simple*
 * Regresión Lineal Simple.ipynb = Cuaderno con el código y apuntes relevantes.  
+* Regresión Lineal Simple.slides.html = Presentación virtual.Te vas al apartado de descargar ⇩ y lo abres desde tu escritorio personal, se te abrirá una nueva pestaña con una presentación interactiva de los resultados del Notebook.En caso de no visualizar bien los resultados adaptar la vista del navegador a 50% usando Contr+Scroll(Mousepad)
 * datos.xlsx = Datos empleados en el cuaderno, siempre son diferentes sin embargo por practicidad todos los sets se nombraron datos.xlsx
 #### Librerías Empleadas:
 - Numpy : https://numpy.org/doc/stable/
