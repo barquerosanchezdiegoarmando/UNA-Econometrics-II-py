@@ -3,12 +3,13 @@
 #### *Repositorio explicativo y pseudo-académico para Universidad Nacional de Costa Rica sobre métodos econométricos relevantes empleando la herramienta computacional y lenguaje de programación Python.*
 ![escuela_economia_una_logo](https://github.com/barquerosanchezdiegoarmando/barquerosanchezdiegoarmando/assets/126104692/280a620e-38b1-43ee-a617-41a20514ec4f)
 #### *La función última del repositorio es brindar al estudiantado un material adicional de calidad con el cual puedan trabajar en paralelo a lo realizado en clase con el profesor Amoretti.*
+## Presentación de la guía introductoria al repositorio:
+https://docs.google.com/presentation/d/e/2PACX-1vQbqpFR-IReHUPTuzjqq32vVy5hfntCTcxEv7i2pqkSDHDVfB0sAzGpyuzyLkyF6kHdYBCIF391SG7O/pub?start=false&loop=false&delayms=3000
 #### *Profesor Encargado: Alexander Amoretti*
 #### *Desarrollador: Diego Armando Barquero Sánchez*
 ### *Continua en desarrollo*
 ### *Estructura Ejemplo 1.0 Regresión Lineal Simple*
 * Regresión Lineal Simple.ipynb = Cuaderno con el código y apuntes relevantes.  
-* Regresión Lineal Simple.slides.html = Presentación virtual.Te vas al apartado de descargar ⇩ y lo abres desde tu escritorio personal, se te abrirá una nueva pestaña con una presentación interactiva de los resultados del Notebook.En caso de no visualizar bien los resultados adaptar la vista del navegador a 50% usando Contr+Scroll(Mousepad)
 * datos.xlsx = Datos empleados en el cuaderno, siempre son diferentes sin embargo por practicidad todos los sets se nombraron datos.xlsx
 #### Librerías Empleadas:
 - Numpy : https://numpy.org/doc/stable/
