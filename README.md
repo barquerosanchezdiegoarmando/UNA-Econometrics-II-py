@@ -6,11 +6,12 @@
 #### *Profesor Encargado: Alexander Amoretti*
 #### *Desarrollador: Diego Armando Barquero Sánchez*
 ### *Continua en desarrollo*
-## Presentaciones 
-- [Introducción al Repositorio](https://publuu.com/flip-book/147456/369762)
+## Docs-LaTex
+
 ### *Estructura Ejemplo 1.0 Regresión Lineal Simple*
 * Regresión Lineal Simple.ipynb = Cuaderno con el código y apuntes relevantes.  
 * datos.xlsx = Datos empleados en el cuaderno, siempre son diferentes sin embargo por practicidad todos los sets se nombraron datos.xlsx
+* Regresión Lineal Simple.pdf = Cuaderno en formato pdf
 #### Librerías Empleadas:
 - Numpy : https://numpy.org/doc/stable/
 - Pandas : https://pandas.pydata.org/docs/getting_started/index.html
